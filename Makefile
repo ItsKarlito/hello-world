@@ -1,7 +1,7 @@
 # Basic Makefile for small scale projects
 # Author: Karl Noory
 
-# Chosing compiler
+# Choosing compiler
 CC=g++
 
 # Setting application name
